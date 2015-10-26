@@ -1,0 +1,23 @@
+name: mywinespace
+favicon: null
+layout_spectrum: 0.4885149176698178
+typography_spectrum: 0.005901150405406952
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.41373880323953927
+  lightness: 0.9451298620551825
+  saturation: 0.1571794229093939
+  rhythmicContrast: 0.10364718828350306
+purpose: []
