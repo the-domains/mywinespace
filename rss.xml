@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[mywinespace]]></title>
+        <description><![CDATA[mywinespace]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 28 Oct 2015 08:25:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Honest Grapes Taste Lab Test]]></title>
+            <description><![CDATA[<article><h1>Honest Grapes Taste Lab Test</h1><p>Gimmick or gold? We find out!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c468edec-7af9-4dce-b12d-3b19e881927b.jpg"></article>]]></description>
+            <link>undefinedhonest-grapes-taste-lab-test/index.html</link>
+            <guid isPermaLink="false">3838c9a9-2f89-4514-bc0f-c4081ce75421</guid>
+            <pubDate>Wed, 28 Oct 2015 08:25:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
