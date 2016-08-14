@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[mywinespace for wine lovers]]></title>
         <description><![CDATA[mywinespace for wine lovers]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mywinespace/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Aug 2016 09:33:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 14 Aug 2016 09:35:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mywinespace/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Get off chardonnays case, and get on to a case of chardonnay.]]></title>
+            <description><![CDATA[<article><h1>Get off chardonnays case, and get on to a case of chardonnay.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65621f8c-8e48-4bd8-b03a-62617c401e1f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/mywinespace/get-off-chardonnays-case-and-get-on-to-a-case-of-chardonnay/index.html</link>
+            <guid isPermaLink="false">c429616b-833f-4759-a15a-dd7af36a9e6c</guid>
+            <pubDate>Sun, 14 Aug 2016 09:35:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ae5cf77-196a-4780-b6ce-69a0d735df96.jpg">]]></description>
-            <link>undefinedman-thats-one-hell-of-a-sales-pitch-my-initial-reaction-h/index.html</link>
+            <link>https://thegrid.ai/mywinespace/man-thats-one-hell-of-a-sales-pitch-my-initial-reaction-h/index.html</link>
             <guid isPermaLink="false">1177dea9-9e2b-402d-9d01-8cc0bff0d638</guid>
             <pubDate>Sun, 14 Aug 2016 09:32:54 GMT</pubDate>
         </item>
