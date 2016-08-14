@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[mywinespace for wine lovers]]></title>
+        <description><![CDATA[mywinespace for wine lovers]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 14 Aug 2016 09:33:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ae5cf77-196a-4780-b6ce-69a0d735df96.jpg">]]></description>
+            <link>undefinedman-thats-one-hell-of-a-sales-pitch-my-initial-reaction-h/index.html</link>
+            <guid isPermaLink="false">1177dea9-9e2b-402d-9d01-8cc0bff0d638</guid>
+            <pubDate>Sun, 14 Aug 2016 09:32:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
